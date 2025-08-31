@@ -1,3 +1,4 @@
+HEAD
 # Backup File Script
 
 This is a simple Bash script I made to keep `.txt` files safe.  
@@ -39,3 +40,6 @@ crontab -e
 Now your .txt files will back up automatically in the background.
  
 
+
+
+587a6b231ba74dfea22540fcddacb858283095a0
